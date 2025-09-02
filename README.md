@@ -1,0 +1,1 @@
+This project addresses a socially impactful problem. \textbf{By predicting student dropout} based on stress indicators, institutions can \textbf{proactively intervene} and provide help, thereby improving student retention, mental health, and academic success.
